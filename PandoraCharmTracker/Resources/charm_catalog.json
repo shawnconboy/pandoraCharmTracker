@@ -1,0 +1,53 @@
+[
+  {
+    "id": "pandora-001",
+    "name": "Double Heart Split Dangle Charm",
+    "collection": "Mother's Day",
+    "variants": [
+      {
+        "id": "variant-001-metal",
+        "color": "Metal",
+        "price": 68.00,
+        "images": [
+          "double_heart_split_dangle_charm_metal01",
+          "double_heart_split_dangle_charm_metal02",
+          "double_heart_split_dangle_charm_metal03",
+          "double_heart_split_dangle_charm_metal04"
+        ]
+      },
+      {
+        "id": "variant-002-gold",
+        "color": "Gold",
+        "price": 100.00,
+        "images": [
+          "double_heart_split_dangle_charm_gold01",
+          "double_heart_split_dangle_charm_gold02",
+          "double_heart_split_dangle_charm_gold03",
+          "double_heart_split_dangle_charm_gold04"
+        ]
+      }
+    ],
+    "owned": false,
+    "wishlist": true
+  },
+  {
+      "id": "pandora-002",
+      "name": "Openwork Hearts Mom Charm",
+      "collection": "Mother's Day",
+      "variants": [
+        {
+          "id": "variant-001-metal",
+          "color": "Sterling Silver",
+          "price": 38.00,
+          "images": [
+            "openwork_hearts_mom_charm01",
+            "openwork_hearts_mom_charm02",
+            "openwork_hearts_mom_charm03",
+            "openwork_hearts_mom_charm04"
+          ]
+        }
+      ],
+      "owned": false,
+      "wishlist": true
+  }
+]
